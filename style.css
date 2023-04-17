@@ -1,0 +1,13 @@
+img {
+    max-width: 100%;
+    display: block;
+    margin: 5px auto;
+}
+a {
+    margin: 5px auto;
+}
+.container {
+    margin: 5px auto;
+    width: 900px;
+}
+html {font-family:'Roboto Mono', monospace;;}
